@@ -26,7 +26,7 @@ body {
 }
 
 .instagram-phone {
-    background-image: url(/img/instagram-celular.png);
+    background-image: url(./img/instagram-celular.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -39,7 +39,7 @@ body {
 }
 
 .instagram-phone:hover{
-    background-image: url(/img/instagram-celular-02.png);
+    background-image: url(./img/instagram-celular-02.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
